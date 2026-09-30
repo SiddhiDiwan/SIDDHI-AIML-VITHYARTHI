@@ -19,19 +19,22 @@ Instead of making it too complex, I kept the project simple and focused on the c
 ## Project Structure
 
 ```
-Spam_Email_Classifier/
+SIDDHI-AIML-VITHYARTHI
 │
 ├── data/
-│   └── spam.csv
 │
 ├── models/
 │   ├── model.pkl
 │   └── vectorizer.pkl
 │
+├── .gitignore
 ├── preprocess.py
 ├── train.py
 ├── email_checker.py
-└── requirements.txt
+├── requirements.txt
+├── output.png
+└── README.md
+
 ```
 
 ---
